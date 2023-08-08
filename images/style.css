@@ -4,7 +4,7 @@
 }
 
 #header {
-    background-image: url(/images/krank.jpg);
+    background-image: url(/images/nationals2.jpg);
     height: 80vh;
     background-size: cover;
     background-position: center;
@@ -58,11 +58,11 @@ nav .fa-bars {
     color: #333;
 }
 
-/*----------About Us-------------*/
+/*----------About me-------------*/
 
 #about {
     padding-top: 80px;
-    padding-bottom: 60px;
+    padding-bottom: 10px;
 }
 
 #about .col-md-6 {
@@ -71,6 +71,11 @@ nav .fa-bars {
 
 #about h3 {
     margin: 20px auto;
+}
+
+#about img {
+    width: 700px;
+    height: 500px;
 }
 
 /*----------Feature-------------*/
@@ -83,6 +88,13 @@ nav .fa-bars {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+}
+
+#feature img {
+    width: 400px;
+    height: 500px;
+    /* padding-top: 10px; */
+    padding-bottom: 30px;
 }
 
 .feature .col-md-6 {
@@ -140,6 +152,12 @@ nav .fa-bars {
     float: left;
 }
 
+<-------packages----------->
+
+#col-md-6 img {
+    max-width: 560px;
+    height: 360;
+}
 
 <!------------Testimonials------------>
 
@@ -213,7 +231,7 @@ nav .fa-bars {
     background-color: #acb1b1a1;
     position: relative;
     box-shadow: 0 0 2px 7px rgba(0, 0, 0, 0.2);
-    margin-bottom: -20px;
+    margin-bottom: -10px;
 }
 
 .contact .input-group {
@@ -252,54 +270,50 @@ nav .fa-bars {
 
 <!-----------footer---------------->
 
-.clearfix {
+ .clearfix {
     *zoom: 1;
-  }
+  } 
   
-  .clearfix:before,
+   /* .clearfix:before,
   .clearfix:after {
     display: table;
     line-height: 0;
     content: "";
-  }
+  }  */
   
-  .clearfix:after {
+   .clearfix:after {
     clear: both;
-  }
+  } 
 
-#footer {
-    margin-top: 100px;
+  #footer {
+    margin-top: 60px;
     padding: 100px;
-    background-color: #0a0a0af9;
-    color: #f66161;
-    overflow: auto;
-}
-
-.footer-logo {
-    width: 150px;
-    margin-top: -80px;
-    margin-bottom: 30px;
+    background-color: #111010f9;
+    color: #013f7e;
 }
 
 #footer p {
-    font-size: 15px;
-    text-align: left;
-    margin-top: -40px;
-    margin-bottom: 5px;
-}
-
-#footer h2 {
-    font-size: 14px;
+    float: right;
+    font: bold;
     text-align: center;
-    margin-top: -110px;
-    margin-bottom: 10px;
+    margin-top: 2px;
+    margin-bottom: 5px;
     color: #fff;
 }
 
+#footer .footer-logo .center{
+    display: block;
+    margin: auto;
+   
+}
+
+
+    
+
 #footer h1 {
     font-size: 14px;
-    /* text-align: center; */
-    margin-top: -130px;
+    text-align: center;
+    margin-top: 10px;
     margin-bottom: 10px;
     color: #fff;
 }
@@ -307,32 +321,39 @@ nav .fa-bars {
 #footer .right {
     text-align: center;
     float: right;
-    margin-top: 10px;
-    margin-bottom: -300px;
+    margin-top: -165px;
+    margin-bottom: 5px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 90px;
 }
 
 #footer .fa {
-    padding-right: 10px;
+    padding-right: 20px;
     font-size: 14px;
 }
 
-#footer .col-1{
-    float: right;
-    margin-top: 10px;
-    margin-bottom: -100px;
-    margin-right: 60px;
-}
+
+#footer .col-1 {
+        float: right;
+        margin-top: -155px;
+        margin-bottom: 5px;
+        margin-right: 105px;
+    }
 
 
 #footer h1 {
     margin-bottom: 10px;
-     text-align: center
+     /* text-align: center */
 
+}
+
+#footer .verse {
+    text-align: center;
 }
 
 
 #footer p {
     float:left;
 }
+
+
