@@ -272,9 +272,7 @@ nav .fa-bars {
     #footer{height:auto}
     .container{height:auto}
     .cl-md-3 {
-        display: flex;
-        flex-direction: column;
-        height:auto;
+        display: none;
     }
    }
 <!-----------footer---------------->
