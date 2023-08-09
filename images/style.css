@@ -121,11 +121,14 @@ nav .fa-bars {
 }
 
 .feature-box {
+    height:20px;
+}
+
+.feature-box {
     height: 120px;
 }
 
 .feature-box .feature-left{
-    padding-top: 20px;
     height: 120px;
     width: 20%;
     float: left;
