@@ -269,7 +269,7 @@ nav .fa-bars {
 }
 
 @media only screen and (min-width: 390) {
-    #footer{height:auto}
+    .footer-logo{display:none;}
     .col-1 {
         display:none;
     }
