@@ -271,7 +271,7 @@ nav .fa-bars {
 @media only screen and (min-width: 390) {
     #footer{height:auto}
     .col-1 {
-        display:column;
+        display:none;
     }
    }
 <!-----------footer---------------->
