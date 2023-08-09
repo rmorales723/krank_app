@@ -121,11 +121,11 @@ nav .fa-bars {
 }
 
 .feature-box {
-    height:20px;
+    height: 120px;
 }
 
-.feature-box {
-    height: 120px;
+.feature-box p {
+    height: 20px;
 }
 
 .feature-box .feature-left{
