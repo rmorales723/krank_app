@@ -269,9 +269,9 @@ nav .fa-bars {
 }
 
 @media only screen and (min-width: 390) {
-    .footer-logo{display:column;}
+    .footer-logo{display:block;}
     .col-1 {
-        display:column;
+        display:block;
     }
    }
 <!-----------footer---------------->
