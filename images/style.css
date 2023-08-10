@@ -8,7 +8,7 @@
     height: 80vh;
     background-size: cover;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: repeat-x;
 }
 
 .navbar-nav li a {
