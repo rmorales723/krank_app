@@ -149,6 +149,7 @@ nav .fa-bars {
 }
 
 .feature-box .feature-right p{
+    padding-bottom: 30%;
     padding-left: 10%;
     float: left;
 }
