@@ -6,7 +6,7 @@
 #header {
     background-image: url(/images/nationals2.jpg); 
     height: 100vh;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: repeat;
 }
