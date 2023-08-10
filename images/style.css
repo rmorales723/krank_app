@@ -148,13 +148,12 @@ nav .fa-bars {
     float: left;
 }
 
-.feature-box .feature-right p{
-    padding-bottom: 60%;
+/* .feature-box .feature-right p{
     padding-left: 10%;
     float: left;
-}
+} */
 
-<-------packages----------->
+<!-------packages----------->
 
 #col-md-6 img {
     max-width: 560px;
