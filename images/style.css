@@ -8,10 +8,10 @@
 
 #header {
     background-image: url(/images/nationals2.jpg); 
-    height: 100vh;
+    height: 80vh;
     background-size: cover;
     background-position: center;
-    background-repeat: cover;
+    background-repeat: no-repeat;
 }
 
 .navbar-nav li a {
