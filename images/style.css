@@ -5,7 +5,7 @@
 
 #header {
     background-image: url(/images/nationals2.jpg); 
-    height: 80vh;
+    height: 100vh;
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -278,12 +278,12 @@ nav .fa-bars {
     *zoom: 1;
   } 
   
-   .clearfix:before,
+   /* .clearfix:before,
   .clearfix:after {
     display: table;
     line-height: 0;
     content: "";
-  } 
+  }  */
   
    .clearfix:after {
     clear: both;
